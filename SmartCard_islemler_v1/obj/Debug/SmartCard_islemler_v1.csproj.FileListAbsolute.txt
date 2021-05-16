@@ -1,0 +1,21 @@
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.Form1.resources
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.Properties.Resources.resources
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.csproj.GenerateResource.Cache
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\bin\Debug\SmartCard_islemler_v1.exe
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\bin\Debug\SmartCard_islemler_v1.pdb
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.exe
+C:\Documents and Settings\MERICY\Desktop\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.pdb
+D:\Tampon\Projeler_icin_7_ARALIK_2012\utils\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.exe
+D:\Tampon\Projeler_icin_7_ARALIK_2012\utils\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.pdb
+D:\Tampon\Projeler_icin_11_OCAK_2013_ofis\utils\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.exe
+D:\Tampon\Projeler_icin_11_OCAK_2013_ofis\utils\Simple_SmartCard_ISLEMELRI_v1\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.pdb
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\bin\Debug\SmartCard_islemler_v1.exe
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\bin\Debug\SmartCard_islemler_v1.pdb
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.csprojAssemblyReference.cache
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.Form1.resources
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.Properties.Resources.resources
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.csproj.GenerateResource.cache
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.csproj.CoreCompileInputs.cache
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.exe
+D:\PROJELER\UTILS\C#\SmartCard_islemler_v1\SmartCard_islemler_v1\obj\Debug\SmartCard_islemler_v1.pdb
